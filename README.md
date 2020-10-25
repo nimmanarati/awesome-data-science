@@ -2,14 +2,26 @@
 A curated list of DevForThaiFreedom data science stuff including datasets, tools, and resources 
 
 ## Datasets
+### NLP Data
+* [Introduction Ch. Dump](https://discord.com/channels/767276359373815809/767311934331813888/767801026698674198) - a discord dump of intro. channel.
+* [Frontline Painpoints](https://discord.com/channels/767276359373815809/767311934331813888/767608522509647894) - a csv of frontline painpoint.
+
+#### Tweet Data
 * [Salim 300k](https://keybase.pub/nimmanarati/DevForThaiFreedom/salim_tweet/) - sqlite of 180k tweets and 120k replies of a group of salim.
 * [Love King Tweets](https://discord.com/channels/767276359373815809/767311934331813888/768152289856192543) - a csv file of 7000 tweets #เรารักสถาบันพระมหากษัตริย์
 * [Youth Love Nation Tweets](https://discord.com/channels/767276359373815809/767311934331813888/767822579582238751) - a zip of csv and sqlite #อนุชนรักชาติศาสน์กษัตริย์
 * [Awesome Salim Quotes](https://github.com/narze/awesome-salim-quotes) - a curated quote of salim.
-* [Introduction Ch. Dump](https://discord.com/channels/767276359373815809/767311934331813888/767801026698674198) - a discord dump of intro. channel.
-* [Frontline Painpoints](https://discord.com/channels/767276359373815809/767311934331813888/767608522509647894) - a csv of frontline painpoint.
-* [TrainStation Geo](https://discord.com/channels/767276359373815809/767311934331813888/767456138538123304) - a json of MRT BTS AirportLink BRT
 * [18 Oct Hashtag](https://discord.com/channels/767276359373815809/767311934331813888/767326422896214026) - a gsheet of #ม็อบ18ตุลา 
+
+
+#### Labeled Data
+* [Natch's dataset](https://docs.google.com/spreadsheets/d/1SSjqxU70WlA1Yh9xM29-dsuwUjkH_Z8345J3N-j2iWA/edit#gid=1934867166) - a 6k tweet crawl with label.
+
+
+### Other Data
+* [TrainStation Geo](https://discord.com/channels/767276359373815809/767311934331813888/767456138538123304) - a json of MRT BTS AirportLink BRT
+* [iLaw Voter by provinces](https://drive.google.com/file/d/1TfEbpGSRmL2ajWNyT5_KUVbhxLIjqp5r/view) - a gsheet of iLaw Voters sum by provinces
+
 
 ## Data Collector, OSINT
 * [twint](https://github.com/nimmanarati/twint/) - a bug-fixed fork of twint, able to crawl targeted person, targeted hashtag tweets and replies.
